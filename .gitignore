@@ -1,0 +1,13 @@
+/venv/
+
+src/__pycache__/
+/src/get_spend_info.py
+
+*.zip
+
+/微信*/
+
+*.sh
+
+
+/.github/workflows/test.yaml
